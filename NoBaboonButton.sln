@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoBaboonButton", "NoBaboonButton.csproj", "{86B3DE9C-0B37-4E20-8639-57169249564D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B3DE9C-0B37-4E20-8639-57169249564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B3DE9C-0B37-4E20-8639-57169249564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B3DE9C-0B37-4E20-8639-57169249564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B3DE9C-0B37-4E20-8639-57169249564D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA048971-F9EE-4BEE-8072-B12F834FCCCE}
+	EndGlobalSection
+EndGlobal
